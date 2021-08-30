@@ -1,0 +1,2 @@
+# Output display
+print("Output")
